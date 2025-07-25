@@ -16,9 +16,8 @@ Soy un desarrollador apasionado por la inteligencia artificial, automatización 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhdz&show_icons=true&theme=radical)
 
 ## 📫 Contáctame
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebastianhdz)
-- ✉️ Email: sebastian@example.com
-
+- 💼 [LinkedIn](www.linkedin.com/in/sebastianherm)
+- ✉️ Email: endersebas12@gmail.com
 ---
 
 ¡Gracias por visitar mi perfil!
