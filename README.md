@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por la inteligencia artificial, automatización 
 - ☁️ [Servidor de Archivos Web](https://github.com/sebastianhdz/mi-servidor-web)
 
 ## 📊 Estadísticas de GitHub
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianhdz&show_icons=true&theme=radical)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas-hdz&show_icons=true&theme=radical)
 
 ## 📫 Contáctame
 - 💼 [LinkedIn](www.linkedin.com/in/sebastianherm)
