@@ -1,16 +1,18 @@
 ## Hi there 👋
 # 👋 ¡Hola! Soy Sebastian 👨‍💻
 
-Soy un desarrollador apasionado por la inteligencia artificial, automatización y software multiplataforma.
+Soy un desarrollador apasionado por la inteligencia artificial, automatización, servidores y software multiplataforma.
 
 ## 🔧 Tecnologías que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📂 Proyectos
 - 🧠 [Asistente Virtual en Python](https://github.com/sebastianhdz/mi-asistente-virtual)
 - ☁️ [Servidor de Archivos Web](https://github.com/sebastianhdz/mi-servidor-web)
+- ⚙️ Págian web del departamento de sistemas UAM Azc (https://sistemas.azc.uam.mx).
 
 ## 📊 Estadísticas de GitHub
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas-hdz&show_icons=true&theme=radical)
