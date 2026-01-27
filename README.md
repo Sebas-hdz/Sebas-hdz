@@ -12,13 +12,13 @@ Soy un desarrollador apasionado por la inteligencia artificial, automatización,
 ## 📂 Proyectos
 - 🧠 [Asistente Virtual en Python](https://github.com/sebastianhdz/mi-asistente-virtual)
 - ☁️ [Servidor de Archivos Web](https://github.com/sebastianhdz/mi-servidor-web)
-- ⚙️ [Págian web del departamento de sistemas UAM Azc](https://sistemas.azc.uam.mx).
+- ⚙️ [Págian web del departamento de sistemas UAM Azc](https://sistemas.azc.uam.mx)
 
 ## 📊 Estadísticas de GitHub
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas-hdz&show_icons=true&theme=radical)
 
 ## 📫 Contáctame
-- 💼 [LinkedIn](www.linkedin.com/in/sebastianherm)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastianherm/)
 - ✉️ Email: endersebas12@gmail.com
 ---
 
