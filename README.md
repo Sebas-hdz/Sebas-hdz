@@ -50,7 +50,7 @@ Me apasiona la inteligencia artificial, la automatización de procesos, la admin
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🧠 []([https://github.com/sebastianhdz/mi-asistente-virtual](https://huggingface.co/spaces/SebasHM12/emocion-predict)) | Predicción emociones con IA | Python |
+| 🧠 [Predicción emociones con IA ](https://huggingface.co/spaces/SebasHM12/emocion-predict) | Predicción emociones con IA | Python |
 | ⚙️ [Página del Depto. de Sistemas UAM Azc](https://sistemas.azc.uam.mx) | Sitio web institucional del departamento de sistemas | Web |
 | ☁️ [Servidor de Archivos Web](https://github.com/sebastianhdz/mi-servidor-web) | Servidor para compartir archivos desde el navegador | Linux, JavaScript |
 
